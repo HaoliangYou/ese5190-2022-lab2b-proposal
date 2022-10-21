@@ -20,10 +20,15 @@ I think it's cool because the previous experimental contents were reasonably use
 Components
 
 RP2040
+
 APDS 9960
+
 LED lights in different colors
+
 Resistors
+
 Breadboards
+
 Connecting Wires
 
 
