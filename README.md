@@ -1,6 +1,6 @@
 # ese5190-2022-lab2b-proposal
 
-Proposal
+## Proposal
 
 First, we use the  power supply of lab to light the LED as the following gif:
 
@@ -12,12 +12,12 @@ I edited # 26 corresponding to the A0 pin of RP2040 to power the circuit and let
 
 ![a](https://github.com/HaoliangYou/ese5190-2022-lab2b-proposal/blob/main/2.gif)
 
-Outline
+### Outline
 
 In combination with Lab 1, gesture monitoring and proximity monitoring will be used to control the flickering of corresponding color bulbs and display corresponding contents in the text. 
 I think it's cool because the previous experimental contents were reasonably used and it has certain application value in distance detection and early warning.
 
-Components
+###Components
 
 RP2040
 
@@ -32,7 +32,7 @@ Breadboards
 Connecting Wires
 
 
-Question:
+### Question
 
 If we need to use more GPIO pins, how should we implement it?
 
